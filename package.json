@@ -14,7 +14,7 @@
     "egg",
     "egg-plugin",
     "eggPlugin",
-    "consul",
+    "consul"
   ],
   "homepage": "https://github.com/hm496/egg-consul-pro#readme",
   "repository": {
