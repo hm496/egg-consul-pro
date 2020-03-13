@@ -1,0 +1,33 @@
+{
+  "name": "egg-consul-pro",
+  "version": "0.0.1",
+  "eggPlugin": {
+    "name": "consul"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "hm496",
+    "email": "hm496@163.com"
+  },
+  "description": "consul plugin for egg",
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "consul",
+  ],
+  "homepage": "https://github.com/hm496/egg-consul-pro#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hm496/egg-consul-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hm496/egg-consul-pro/issues"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "consul": "^0.37.0"
+  }
+}
